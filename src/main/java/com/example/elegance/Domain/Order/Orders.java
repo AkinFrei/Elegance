@@ -7,6 +7,8 @@ import lombok.RequiredArgsConstructor;
 import java.util.List;
 import java.util.UUID;
 
+import com.example.elegance.Domain.Product.Product;
+
 @Entity
 @Getter
 @Setter

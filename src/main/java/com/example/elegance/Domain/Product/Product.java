@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.Setter;
-
+import com.example.elegance.Domain.Order.Orders;
 import java.util.UUID;
 
 @Entity

@@ -3,6 +3,8 @@ package com.example.elegance.Domain.Shop;
 import jakarta.persistence.*;
 import lombok.*;
 import lombok.RequiredArgsConstructor;
+import com.example.elegance.Domain.Owner.Owner;
+
 
 import java.util.HashSet;
 import java.util.Set;
